@@ -4,9 +4,7 @@
 
 1. **Jumping Jacks:** 2 minutes
 2. **Dynamic Stretching:** 5 minutes (Arm circles, torso twists, leg swings)
-3. **High Knees:** 2 minut
-   <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-   es
+3. **High Knees:** 2 minutes
 4. **Fast Push-Ups:** 2 sets of 20-30 reps
 
 ## Main Workout (Mix of Slow and Fast Reps)
@@ -23,8 +21,8 @@
 
 ## Optional Core Workout
 
-1. **Plank:** 3 sets of 1-minute hold
-2. **Russian Twists:** 3 sets of 20 reps (10 each side)
+1. **Jack Lalanne extended Plank:** 3 sets of 1-minute hold
+2. **Hanging Leg Twists:** 3 sets of 20 reps (10 each side)
 3. **Hanging Leg Raises:** 3 sets of 10-15 reps
 
 ## Cool Down (10 minutes)
